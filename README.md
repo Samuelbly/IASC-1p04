@@ -1,2 +1,6 @@
-# IASC-1p04
-GitHub repository for IASC 1P04 course at Brock University 
+# IASC-1p04 | Samuel Dalbayrak
+Welcome to the website for my Twine Game, created for the course IASC 1P04 at Brock University. 
+
+## Playtest 
+
+Playtest my game [here]().

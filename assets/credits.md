@@ -52,5 +52,7 @@ by Connum
 2005 - Licensed under
 Creative Commons This work is licensed under the Attribution Noncommercial License.
 
+---
 
+"Abandoned and sinking playground at the North Shore Yacht Club" by slworking2 is licensed under CC BY-NC-SA 2.0
 

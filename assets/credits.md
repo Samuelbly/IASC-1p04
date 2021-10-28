@@ -46,7 +46,11 @@ Creative Commons 0
 
 ---
 
+"Glimmer of Hope"
+by Connum 
 
+2005 - Licensed under
+Creative Commons This work is licensed under the Attribution Noncommercial License.
 
 
 

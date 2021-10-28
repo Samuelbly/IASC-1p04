@@ -61,4 +61,7 @@ Creative Commons This work is licensed under the Attribution Noncommercial Licen
 "Dirty house (= winter)" by Stickerkitty is licensed under CC BY-NC-SA 2.0
 
 ---
+"The Streets of Mont Saint Michel" by Trey Ratcliff is licensed under CC BY-NC-SA 2.0
+
+---
 

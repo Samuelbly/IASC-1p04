@@ -56,3 +56,9 @@ Creative Commons This work is licensed under the Attribution Noncommercial Licen
 
 "Abandoned and sinking playground at the North Shore Yacht Club" by slworking2 is licensed under CC BY-NC-SA 2.0
 
+---
+
+"Dirty house (= winter)" by Stickerkitty is licensed under CC BY-NC-SA 2.0
+
+---
+

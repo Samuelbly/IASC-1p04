@@ -4,3 +4,7 @@ Welcome to the website for my Twine Game, created for the course IASC 1P04 at Br
 ## Playtest 
 
 Playtest my game [here]().
+
+## Prototype
+
+Play my Prototype [here](prototype/IASC 1P04 Game Prototype Tunnels of Light.html)

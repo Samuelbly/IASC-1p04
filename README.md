@@ -7,5 +7,5 @@ Playtest my game [here](playtest/playtest)
 
 ## Prototype
 
-Play my Prototype [here](prototype/GamePrototypeTunnelsofLight.html)
+Play my Prototype [here](prototype/PrototypeTunnelsofLight2.html)
 

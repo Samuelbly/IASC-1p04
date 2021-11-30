@@ -7,5 +7,5 @@ Playtest my game [here](playtest/playtest)
 
 ## Prototype
 
-Play my Prototype [here](prototype/IASC 1P04 Game Prototype Tunnels of Light.html)
+Play my Prototype [here](prototype/GamePrototypeTunnelsofLight.html)
 

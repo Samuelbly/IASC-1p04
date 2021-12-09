@@ -75,6 +75,9 @@ the Attribution License.
 
 ---
 
+"45A Guest Bedroom Model_Mandarian-29-Web Res" by The Residences at Mandarin Oriental is marked with CC PDM 1.0
+
+---
 
 
 
